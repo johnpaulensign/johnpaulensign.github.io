@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as t,b as c}from"./index-DCBVpxlX.js";const a={},i={class:"bio"},n=c("h1",null,"This is the bio page",-1);function r(_,d){return o(),s("div",i,[n,t(" TODO: add bio ")])}const f=e(a,[["render",r]]);export{f as default};

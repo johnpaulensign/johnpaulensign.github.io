@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,b as c}from"./index-DCBVpxlX.js";const o={},r={class:"current"},n=c("h1",null,"This is the current page",-1),_=[n];function a(i,d){return t(),s("div",r,_)}const l=e(o,[["render",a]]);export{l as default};
